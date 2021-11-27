@@ -1,0 +1,52 @@
+INFO:------------ Read configuration--------------------
+INFO:------------ Data checking--------------------
+INFO:Columns : Index(['Image_ID', 'class', 'xmin', 'ymin', 'width', 'height'], dtype='object')
+INFO:Unique ID: 3001
+INFO:Targets: ['fruit_woodiness' 'fruit_brownspot' 'fruit_healthy']
+INFO:fruit_brownspot: 1022
+INFO:fruit_healthy: 1638
+INFO:fruit_woodiness: 1246
+INFO:------------Transform data--------------------
+INFO:------------Train validation split--------------------
+INFO:------------Create Yolo labels files--------------------
+INFO:------------Train yolov5--------------------
+INFO:------------Test yolov5--------------------
+INFO:------------ Read configuration--------------------
+INFO:------------ Data checking--------------------
+INFO:Columns : Index(['Image_ID', 'class', 'xmin', 'ymin', 'width', 'height'], dtype='object')
+INFO:Unique ID: 3001
+INFO:Targets: ['fruit_woodiness' 'fruit_brownspot' 'fruit_healthy']
+INFO:fruit_brownspot: 1022
+INFO:fruit_healthy: 1638
+INFO:fruit_woodiness: 1246
+INFO:------------Transform data--------------------
+INFO:------------Train validation split--------------------
+INFO:------------Create Yolo labels files--------------------
+INFO:------------Train yolov5--------------------
+INFO:------------Test yolov5--------------------
+INFO:------------ Read configuration--------------------
+INFO:------------ Data checking--------------------
+INFO:Columns : Index(['Image_ID', 'class', 'xmin', 'ymin', 'width', 'height'], dtype='object')
+INFO:Unique ID: 3001
+INFO:Targets: ['fruit_woodiness' 'fruit_brownspot' 'fruit_healthy']
+INFO:fruit_brownspot: 1022
+INFO:fruit_healthy: 1638
+INFO:fruit_woodiness: 1246
+INFO:------------Transform data--------------------
+INFO:------------Train validation split--------------------
+INFO:------------Create Yolo labels files--------------------
+INFO:------------Train yolov5--------------------
+INFO:------------Test yolov5--------------------
+INFO:------------ Read configuration--------------------
+INFO:------------ Data checking--------------------
+INFO:Columns : Index(['Image_ID', 'class', 'xmin', 'ymin', 'width', 'height'], dtype='object')
+INFO:Unique ID: 3001
+INFO:Targets: ['fruit_woodiness' 'fruit_brownspot' 'fruit_healthy']
+INFO:fruit_brownspot: 1022
+INFO:fruit_healthy: 1638
+INFO:fruit_woodiness: 1246
+INFO:------------Transform data--------------------
+INFO:------------Train validation split--------------------
+INFO:------------Create Yolo labels files--------------------
+INFO:------------Train yolov5--------------------
+INFO:------------Test yolov5--------------------

@@ -1,0 +1,28 @@
+DATA_PATHS:
+    TRAIN_PATH: 'zindi_dataset/Train.csv'
+    TEST_PATH: 'zindi_dataset/Train.csv'
+    SUB_PATH: 'zindi_dataset/Sample_submission.csv'
+
+    TRAIN_DATA_PATH: 'zindi_dataset/Train_Images/'
+    TEST_DATA_PATH: 'zindi_dataset/Test_Images/'
+
+    OUTPUT_PATH: 'yolo_dataset/makerere/'
+    YOLO_DATA_PATH: 'yolo_dataset/'
+
+DATASET:
+    IMAGE_SIZE: 512
+    ID: 'Image_ID'
+    TARGET_COL: 'class'
+    TARGETS : ["fruit_brownspot", "fruit_healthy", "fruit_woodiness"]
+    BBOXES_COLS: ["xmin", "ymin", "width", "height"]
+
+
+TRAIN:
+    MODEL_PATH: 'yolov5/'
+    BATCH_SIZE: 1
+    EPOCHS: 2
+
+INFERENCE:
+    WEIGHTS_PATH: 'yolov5/runs/train/exp3/weights/best.pt'
+    LABELS_PATH: 'yolov5/runs/detect/exp3/labels/'
+    OUTPUT_PATH: 'output/'

@@ -1,2 +1,15 @@
-# Makerere-Passion-Fruit-Disease-Detection-Challenge
-Passion fruit pests and diseases in Uganda lead to reduced yields and decreased investment in farming over time. Most Ugandan farmers (including passion fruit farmers) are smallholder farmers from low-income households, and do not have sufficient information and means to combat these challenges. Without the required knowledge about the health of their crops, farmers cannot intervene promptly to avoid devastating losses.
+# Grenadilla Disease Detection Challenge
+
+<img align="right" src="Grenadilla.jpg" width="250" height="250">
+
+The objective of this challenge is to classify the disease status of a plant 
+given an image of a passion fruit. You need to classify each fruit individually 
+and not assume that all the fruit in the same image have the same status. 
+
+The dataset contains about 4000 images resized to 512x512. There are ~5000 fruit in total. 
+Some images contain more than one fruit and thus more than one bounding box. 
+The images are annotated using bounding boxes defined in a COCO format and each bounding box is 
+tagged to one of three classes: fruit_healthy, fruit_brownspot and fruit_woodiness.
+
+
+<img align="right" src="gwd.png" width="1000" height="600">
