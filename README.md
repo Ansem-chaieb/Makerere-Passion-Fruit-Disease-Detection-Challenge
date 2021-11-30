@@ -25,7 +25,7 @@ tagged to one of three classes:
 git clone https://github.com/Ansem-chaieb/Makerere-Passion-Fruit-Disease-Detection-Challenge.git
 cd Makerere-Passion-Fruit-Disease-Detection-Challenge
 ```
-**2 . Download Custom YOLOv5 Object Detection Data:**
+**2 . Download custom YOLOv5 object detection data:**
 ```bash
 zindi_dataset/
 └── Test_Images/
@@ -34,7 +34,7 @@ zindi_dataset/
 └── Train.csv
 └── Sample_submission.csv
 ```
-**3 . Clone yolov5 repository:**
+**3 . Clone YOLOv5 repository:**
 ```bash
 git clone https://github.com/ultralytics/yolov5.git
 ```
