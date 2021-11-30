@@ -8,10 +8,13 @@ and not assume that all the fruit in the same image have the same status.
 
 
 ## Input dataset
-The dataset contains about 4000 images resized to 512x512. There are ~5000 fruit in total. 
+The dataset contains about 4000 images resized to **512x512**. There are **~5000** fruit in total. 
 Some images contain more than one fruit and thus more than one bounding box. 
-The images are annotated using bounding boxes defined in a COCO format and each bounding box is 
-tagged to one of three classes: fruit_healthy, fruit_brownspot and fruit_woodiness.
+The images are annotated using bounding boxes defined in a **COCO format** and each bounding box is 
+tagged to one of three classes: 
+* **fruit_healthy**. 
+* **fruit_brownspot**. 
+* **fruit_woodiness**.
 
 
 <img align="right" src="images/gwd.png" width="1000" height="600">
