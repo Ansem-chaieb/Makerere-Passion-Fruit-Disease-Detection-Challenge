@@ -1,6 +1,6 @@
 # Grenadilla Disease Detection Challenge
 
-<img align="right" src="images/Grenadilla.jpg" width="250" height="250">
+<img align="right" src="images/Grenadilla.jpg" width="150" height="150">
 
 The objective of this challenge is to classify the disease status of a plant 
 given an image of a passion fruit. You need to classify each fruit individually 
@@ -17,10 +17,10 @@ tagged to one of three classes: fruit_healthy, fruit_brownspot and fruit_woodine
 <img align="right" src="images/gwd.png" width="1000" height="600">
 
 ## Instructions
-### Clone project
-### Clone yolo v5 project
-### Set configuration
-### Run project
+#### Clone project
+#### Clone yolo v5 project
+#### Set configuration
+#### Run project
 ## output results
 
 ## Yolo v5 model
