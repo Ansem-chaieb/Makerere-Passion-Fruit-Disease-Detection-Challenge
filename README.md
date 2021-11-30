@@ -95,4 +95,8 @@ output/
 └── sub_pascal.csv
 └── sub_yolo.csv
 ```
+Exemple of test results:
+
+<img align="right" src="images/Figure_1.png" width="1000" height="600">
+
 ## Yolo v5 model
