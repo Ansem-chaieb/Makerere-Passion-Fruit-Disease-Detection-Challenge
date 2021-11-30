@@ -21,6 +21,8 @@ TRAIN:
     MODEL_PATH: 'yolov5/'
     BATCH_SIZE: 1
     EPOCHS: 2
+#    ['yolov5l.pt', 'yolov5m.pt' ,  'yolov5s.pt', 'yolov5x.pt']
+    MODEL_WEIGHTS: 'yolov5s.pt'
 
 INFERENCE:
     WEIGHTS_PATH: 'yolov5/runs/train/exp3/weights/best.pt'
