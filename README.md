@@ -1,6 +1,6 @@
 # Grenadilla Disease Detection Challenge
 
-<img align="right" src="Grenadilla.jpg" width="250" height="250">
+<img align="right" src="images/Grenadilla.jpg" width="250" height="250">
 
 The objective of this challenge is to classify the disease status of a plant 
 given an image of a passion fruit. You need to classify each fruit individually 
@@ -12,4 +12,4 @@ The images are annotated using bounding boxes defined in a COCO format and each 
 tagged to one of three classes: fruit_healthy, fruit_brownspot and fruit_woodiness.
 
 
-<img align="right" src="gwd.png" width="1000" height="600">
+<img align="right" src="images/gwd.png" width="1000" height="600">
