@@ -17,7 +17,7 @@ tagged to one of three classes:
 * **fruit_woodiness**.
 
 
-<img align="right" src="images/gwd.png" width="500" height="600">
+<img align="right" src="images/gwd.png" width="1000" height="600">
 
 ## Instructions
 #### Clone project
